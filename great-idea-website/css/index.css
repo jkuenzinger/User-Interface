@@ -64,3 +64,108 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav {
+	color: grey;
+	display: inline-block;
+	width: 80%;
+	}
+#services {
+	padding:10px 6% 0px;
+}
+#product {
+	padding:10px 6% 0px;
+}
+#vision {
+	padding:10px 6% 0px;
+}
+#features{
+	padding:10px 6% 0px;
+}
+#about{
+	padding:10px 6% 0px;
+}
+#contact{
+	padding:10px 6% 0px;
+}
+.greatidea {
+	display: inline-block;
+	padding:25px 0 0px;
+	
+}
+h1{
+	font-size: 100px;
+}
+
+.headertext{
+	text-align: center;
+	display: inline-block;
+	width: 50%;
+	}
+.headerimage{
+	display: inline-block;
+	padding-top: 50px;
+	padding-left: 240px;
+	width: 49%;
+	}
+#getstarted {
+	border:1px solid black;
+	padding: 5px 20px;
+}
+header{
+	padding-bottom: 80px;
+}
+hr {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.features{
+	display:inline-block;
+	width: 45%;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin-left: 90px;
+	}
+.about{
+	display:inline-block;
+	width: 45%;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin-right: 25px;
+}
+.middle-img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+.services{
+	display:inline-block;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin-left: 90px;
+	width: 30%;
+}
+.product{
+	display:inline-block;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: 30%;
+}
+.vision{
+	display:inline-block;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: 30%;
+}
+.contact{
+	padding-top: 40px;
+	margin-left: 90px;
+}
+footer{
+	padding-top:40px;
+	text-align: center;
+}
+
